@@ -34,6 +34,7 @@ class BotConfig(AppConfig):
                 api_id=bot_settings['API_ID'],
                 api_hash=bot_settings['API_HASH'],
                 bot_token=bot_settings['BOT_TOKEN'],
+                proxy=bot_settings['BOT_PROXY'],
                 sleep_threshold=15,
                 parse_mode=ParseMode.HTML,
                 plugins={
