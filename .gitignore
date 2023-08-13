@@ -31,5 +31,5 @@ venv.bak/
 /logs/
 *.session
 *.session-journal
-/django_pyrogram_bot/project_django_pyrogram_bot/settings.py
+#/django_pyrogram_bot/project_django_pyrogram_bot/settings.py
 /django_pyrogram_bot/running_bot_data.json
